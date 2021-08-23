@@ -36,3 +36,5 @@ and then at **line 23** we call the ```delay()``` function to add a delay of 500
 Now just ask the friend you want to annoy to connect to the bluetooth by the board and the board will do the rest itself.
 
 Note : The above steps are true assuming you already have the esp boards installed on your IDE. If you dont have them installed you can follow [this](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/) simple guide to do so
+
+**If you encounter any issues please feel free to open an issue [here](https://github.com/TakshakRamteke/prankboard-Ble/issues) so we can discuss it out.**
