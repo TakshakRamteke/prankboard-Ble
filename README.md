@@ -10,7 +10,7 @@ As Most of the mordern android smartphone now a days support a keyboard (both wi
 
 Note : A library for Bluetooth Mouse Implementation can be found [here](https://github.com/T-vK/ESP32-BLE-Mouse) if you want to use that.
 
-## How it Does this ?
+## How Does it work?
 
 The most simple way of rebooting a mordern android smartphone is holding down CTRl+ALT+DEL keys for at least a sec and then letting them go. So in order to reboot a android smartphone we just need to accomplish the same but just using our esp32 board which is fairly simple while using the BleKeyboard library.
 
